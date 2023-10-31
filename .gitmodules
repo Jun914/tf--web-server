@@ -1,0 +1,6 @@
+[submodule "tf-aws-keyfair"]
+	path = tf-aws-keyfair
+	url = https://github.com/Jun914/tf-aws-keyfair.git
+[submodule "tf-aws-vpc"]
+	path = tf-aws-vpc
+	url = https://github.com/Jun914/tf-aws-vpc.git
